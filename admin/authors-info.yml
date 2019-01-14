@@ -1,5 +1,7 @@
 # This file is used to configure the "ghizmo assemble-authors" command.
 
+## Oscarg933
+
 header: |
   This work is the result of the effort of many people around the world.
   Contributors are listed in alphabetical order by GitHub login.
