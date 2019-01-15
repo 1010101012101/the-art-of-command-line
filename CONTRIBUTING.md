@@ -1,4 +1,4 @@
-## Contributing to The Art of Command Line
+## o$carg933 Contributing to The Art of Command Line
 
 This guide is a [collaborative effort](AUTHORS.md), based on the generous work of many contributors.
 
